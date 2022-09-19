@@ -1,8 +1,12 @@
-# portfolio-de-estudo
+# Porfólio de estudo
 
-Projeto de portfólio , desenvolvido o durante o curso de Introdução a HTML e CSS da DNC.
+> Projeto construído durante o curso de Introdução a HTML e CSS da DNC.
 
-Teve como objetivo desenvolver um site de portfólio com informações ficticías e aprender como criar um site utilizando HTML e CSS.
+[🔗 Clique aqui para acessar](https://lineeiko.github.io/portfolio-de-estudo/)
 
-Link para vizualizar como ficou o site do portfólio.
-https://lineeiko.github.io/portfolio-de-estudo/
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
