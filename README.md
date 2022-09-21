@@ -1,4 +1,4 @@
-# Porfólio de estudo
+# Portfólio de estudo
 
 > Projeto construído durante o curso de Introdução a HTML e CSS da DNC.
 
